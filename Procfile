@@ -1,1 +1,1 @@
-web: python python_job/DLY_SAHAM.py
+web: python app.py
